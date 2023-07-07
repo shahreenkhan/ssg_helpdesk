@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*,html{
+    font-family: 'Poppins';
+}
+.s3{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.12);
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: 400;
+}
+.s2{
+    font-size: 14px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.nav_blue2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: #1B3764;
+    border: 1px solid #00235C;
+    color: #fff;
+}
+.dropfont{
+    font-size: 13px;
+    color: #1B3764;
+    font-weight: 600;
+ }
+ .dropfont2{
+    font-size: 13px;
+    font-weight: 600;
+ }
+ .no-outline{
+    border: none;
+    outline: none;
+    font-size: 13px;
+    font-weight: 600;
+    padding-left: 25px;
+ }
+ .no-outline2{
+    border: none;
+    outline: none;
+    font-size: 13px;
+    font-weight: 600;
+    padding-left: 10px;
+    width: 70%;
+ }
+ .shade{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px
+}
+ .fontsize4{
+    color:#012343;
+    /* font-weight: 600; */
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fontsize3{
+    color: #50677D;
+    font-weight: 700;
+    font-size: 20px;
+    padding-right: 10px;
+    line-height: 30px;
+}
+.fontsize2{
+    color:#1b3764;
+    font-weight: 700;
+    font-size: 20px;
+    /* padding-left: 16px; */
+    padding-right: 13px;
+}
+.greaterimg{
+    width: 20px;
+    margin-right: 10px;
+    margin-bottom: 6px;
+}
+  .addfollowbtn{
+    background-color: #1B3764;
+    color: #fff;
+    font-size: 15px;
+    padding-right: 8px;
+    margin-right: 5px;
+}
+.addfollowbtn:hover{
+    background-color: #F87C2A;
+    color: #fff;
+    font-size: 15px;
+    padding-right: 8px;
+}
+.marginn{
+    margin-left:10px;
+}
+.backbtn{
+    color: #1B3764;
+    font-size: 16px;
+    font-weight:600;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.12);
+  }
+  .backbtn:hover{
+    background-color: #1B3764;
+    color: #fff;
+  }
+  .backbtn3{
+    background-color:#F87C2A;
+    color: #fff;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.backbtn3:hover{
+    background-color:#012343;
+    color: #fff;
+}
+.backbtn4{
+    background-color:#1B3764;
+    color: #fff;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.backbtn4:hover{
+    background-color:#F87C2A;
+    color: #fff;
+}
+  .fa-arrow-left{
+    font-size:20px;
+    padding-right: 6px;
+  }
+  .dropfont3{
+    color: #000000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.calenderimg{
+    width: 25px;
+}
+.blackborder{
+    font-weight: 600;
+    font-size: 14px;
+    color: #012343;
+    border: 1px solid #646363ba;
+    box-shadow: 4px 4px 11px rgba(0, 0, 0, 0.11);
+    border-radius: 10px;
+   
+}
